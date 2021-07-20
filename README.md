@@ -1,3 +1,6 @@
 # LeetCode
 Share my LeetCode practice notes.
-# Code
+
+# Show me the code
+
+Hello World！
